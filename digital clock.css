@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 
 
-@font-face {
-    font-family: 'Digital-7';
-    src: url('fonts/digital-7.ttf') format('woff2'), b, g, mdrx url('digital-7.woff') format('woff');
-}
-
 * {
     margin: 0;
     padding: 0;
